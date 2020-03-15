@@ -1,0 +1,19 @@
+<nav class="navbar navbar-vertical navbar-expand-md navbar-light bg-white" id="sidenav-main">
+  <div class="container-fluid">
+    
+    
+    <!-- Collapse -->
+    <!-- <div class="collapse navbar-collapse"  [ngbCollapse]="isCollapsed" id="sidenav-collapse-main"> -->
+     
+      <!-- Navigation -->
+      <ul class="navbar-nav">
+          <li (click)="onClick(menuItem)" *ngFor="let menuItem of sideItem" >
+              <a  class="nav-link">
+                  {{menuItem}}
+              </a>
+          </li>
+      </ul>
+      
+    </div>
+  <!-- </div> -->
+</nav>

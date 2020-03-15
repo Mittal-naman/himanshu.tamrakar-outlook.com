@@ -1,0 +1,404 @@
+{
+    "india": {
+        "of": "India",
+        "total": 118,
+        "foriener": 17,
+        "indians": 90,
+        "cured":9,
+        "death": 2,
+        "bulletins": [
+            {
+                "title": "India becomes fifth country to isolate Covid-19 virus strain",
+                "url": "https://www.livemint.com/news/india/covid-19-india-becomes-5th-country-globally-to-isolate-virus-strain-11584102221498.html"
+            },
+            {
+                "title": "Airports Council seeks India to bail out airport, airline operators",
+                "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/covid-19-airports-council-seeks-india-to-bail-out-airport-airline-operators/articleshow/74622240.cms"
+            },
+            {
+                "title": "IPL 2020 deferred until April 15",
+                "url": "https://www.espncricinfo.com/story/_/id/28895902/start-ipl-2020-postponed-april-15"
+            },
+            {
+                "title": "India Declares COVID-19 A 'National Disaster'",
+                "url": "https://news.abplive.com/news/india/india-declares-covid-19-a-national-disaster-1175302"
+            },
+            {
+                "title": "Pakistan on PM Modi's proposal",
+                "url": "https://economictimes.indiatimes.com/news/politics-and-nation/will-participate-in-saarc-video-conference-on-coronavirus-pakistan-on-pm-modis-proposal/articleshow/74623687.cms"
+            }
+        ]
+    },
+    
+        "Delhi": {
+            "of": "Delhi",
+            "total": 10,
+            "foriener": 0,
+            "indians": 7,
+            "cured":2,
+            "death": 1,
+            "bulletins": [
+                {
+                    "title": "IIT Delhi Asks Students to Vacate Campus by March 15",
+                    "url": "https://www.hindustantimes.com/education/iit-delhi-orders-indian-students-to-vacate-hostels-over-covid-19/story-sqOjUhuWLTWs8BHVE1syZO.html"
+                },
+                {
+                    "title": "The government has set up a task force to monitor and control the Delhi coronavirus situation",
+                    "url": "https://www.jagranjosh.com/current-affairs/delhi-government-sets-up-task-force-under-cm-arvind-kejriwal-to-tackle-coronavirus-outbreak-1583388243-1"
+                },
+                {
+                    "title": "All Delhi cinema halls, schools to remain closed till end of this month",
+                    "url": "https://www.livemint.com/news/india/coronavirus-update-all-delhi-cinema-halls-schools-to-remain-closed-till-end-of-this-month-11584013012186.html"
+                },
+                {
+                    "title": "Arvind Kejriwal promises strict action against chemists who stock up sanitisers",
+                    "url": "https://www.firstpost.com/health/coronavirus-outbreak-arvind-kejriwal-promises-strict-action-against-chemists-who-stock-up-sanitisers-8134291.html"
+                },
+                {
+                    "title": "Helpline Number - 011-22307145"
+                }
+            ]
+        },
+        "Haryana": {
+            "of": "Haryana",
+            "total": 14,
+            "foriener": 14,
+            "indians": 0,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Haryana govt shuts all universities, colleges till March 31 due to coronavirus",
+                    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/haryana-govt-shuts-all-universities-colleges-till-march-31-due-to-coronavirus/articleshow/74611531.cms?from=mdr"
+                },
+                {
+                    "title": "Haryana health minister links coronavirus to non-veg diet, says 'be vegetarian'",
+                    "url": "https://www.theweek.in/news/india/2020/03/14/haryana-health-minister-links-coronavirus-to-non-veg-diet-says-be-vegetarian.html?fbclid=IwAR0WyBD72jSsIICjL0xOutuXXyPSvzL2YSOMGk2G-1418p4Nd-e6pzt-2vk"
+                },
+                {
+                    "title": "Haryana government to carve out zones to screen people",
+                    "url": "https://timesofindia.indiatimes.com/city/gurgaon/coronavirus-government-to-carve-out-zones-to-screen-people/articleshow/74601998.cms"
+                },
+                {
+                    "title": "Helpline Number - 8558893911"
+                }
+            ]
+        },
+        "Kerala": {
+            "of": "Kerala",
+            "total": 25,
+            "foriener": 0,
+            "indians": 22,
+            "cured":3,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Kerala government releases route map of journey of 3-member family from Italy",
+                    "url": "https://www.deccanherald.com/national/south/coronavirus-kerala-government-releases-route-map-of-journey-of-3-member-family-from-italy-812680.html"
+                },
+                {
+                    "title": "All new suspected cases test negative in Kerala",
+                    "url": "https://www.livemint.com/news/india/coronavirus-all-new-cases-test-negative-in-kerala-high-alert-continues-11584173753407.html"
+                },
+                {
+                    "title": "Kerala delivers mid-day meals at homes, kids spread coronavirus awareness on streets",
+                    "url": "https://www.livemint.com/news/india/kerala-delivers-mid-day-meals-at-homes-kids-spread-virus-awareness-on-streets-11584126244671.html"
+                },
+                {
+                    "title": "Helpline Number - 0471-2552056"
+                }
+            ]
+        },
+        "Rajasthan": {
+            "of": "Rajasthan",
+            "total": 4,
+            "foriener": 2,
+            "indians": 2,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Rajasthan closes schools, cinema halls till March 30",
+                    "url": "https://www.thehindu.com/news/national/other-states/coronavirus-rajasthan-closes-schools-cinema-halls-till-march-30/article31067344.ece"
+                },
+                {
+                    "title": "Central govt approaches Rajasthan about line of treatment followed to cure patients",
+                    "url": "https://www.indiatoday.in/mail-today/story/coronavirus-central-govt-approaches-rajasthan-about-line-of-treatment-followed-to-cure-patients-1655362-2020-03-14"
+                },
+                {
+                    "title": "Rajasthan Government Distributes 'Kaadha' To Fight Coronavirus",
+                    "url": "https://www.ndtv.com/india-news/rajasthan-government-distributes-kaadha-to-fight-coronavirus-2194993"
+                },
+                {
+                    "title": "Rajasthan govt orders screening of all foreigners arriving in state",
+                    "url": "https://www.indiatoday.in/india/story/coronavirus-rajasthan-govt-orders-screening-all-foreigners-arriving-state-1653479-2020-03-07"
+                },
+                {
+                    "title": "Helpline Number - 0141-2225624"
+                }
+            ]
+        },
+        "Telengana": {
+            "of": "Telengana",
+            "total": 4,
+            "foriener": 0,
+            "indians": 3,
+            "cured":1,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Second coronavirus positive case in Telangana",
+                    "url": "https://timesofindia.indiatimes.com/city/hyderabad/second-coronavirus-positive-case-in-telangana-state-cabinet-to-meet-today/articleshow/74626368.cms"
+                },
+                {
+                    "title": "No shutdown in Hyderabad IT hub",
+                    "url": "https://www.livemint.com/companies/people/coronavirus-no-shutdown-in-hyderabad-it-hub-11583377613980.html"
+                },
+                {
+                    "title": "Telangana announces closure of schools, malls till March 31",
+                    "url": "https://www.thehindubusinessline.com/news/national/telangana-announces-closure-of-schools-malls-till-march-31/article31068745.ece"
+                },
+                {
+                    "title": "Cabinet meet called to decide anti-Coronavirus measures",
+                    "url": "https://telanganatoday.com/telangana-urgent-cabinet-meet-called-to-decide-anti-coronavirus-measures"
+                },
+                {
+                    "title": "Helpline Number - 104"
+                }
+            ]
+        },
+        "Uttar Pradesh": {
+            "of": "Uttar Pradesh",
+            "total": 15,
+            "foriener": 1,
+            "indians": 11,
+            "cured":3,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Uttar Pradesh shuts schools, colleges till 22 March",
+                    "url": "https://www.livemint.com/news/india/coronavirus-uttar-pradesh-shuts-schools-colleges-till-22-march-11584098332754.html"
+                },
+                {
+                    "title": "Delhi lockdown needs NCR back up. It can't work alone",
+                    "url": "https://www.indiatoday.in/news-analysis/story/in-fighting-coronavirus-delhi-lockdown-needs-ncr-back-up-it-can-t-work-alone-1655235-2020-03-13"
+                },
+                {
+                    "title": "No need to panic, state govt fully alert",
+                    "url": "https://www.hindustantimes.com/cities/no-need-to-panic-state-govt-fully-alert-yogi-on-coronavirus/story-D6oFZKlhXVx2xktmt3NwiL.html"
+                },
+                {
+                    "title": "Uttar Pradesh Govt Sets Up 5 Labs In State For Coronavirus Testing",
+                    "url": "https://swarajyamag.com/insta/uttar-pradesh-govt-sets-up-5-labs-in-state-for-coronavirus-testing-informs-cm-yogi-adityanath"
+                },
+                {
+                    "title": "Helpline Number - 18001805145"
+                }
+            ]
+        },
+        "Union Territory of Ladakh": {
+            "of": "Union Territory of Ladakh",
+            "total":3,
+            "foriener": 0,
+            "indians": 3,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Doctors flag inadequate testing facilities, shortage of masks, sanitisers",
+                    "url": "https://www.firstpost.com/health/coronavirus-outbreak-in-jammu-kashmir-and-ladakh-doctors-flag-inadequate-testing-facilities-shortage-of-masks-sanitisers-8141481.html"
+                },
+                {
+                    "title": "Village in ladakh locked down after two residents test positive",
+                    "url": "https://science.thewire.in/health/coronavirus-village-in-ladakh-locked-down-after-two-residents-test-positive/"
+                },
+                {
+                    "title": "Cancellation of all kinds of leave of Medical Officers/Officials in UT Ladakh",
+                    "url": "https://ladakh.nic.in/document-category/government-orders/"
+                },
+                {
+                    "title": "Closure of all colleges and University of Ladakh.",
+                    "url": "https://ladakh.nic.in/document-category/government-orders/"
+                },
+                {
+                    "title": "Helpline Number - 01982256462"
+                }
+            ]
+        },
+        "Tamil Nadu": {
+            "of": "Tamil Nadu",
+            "total": 1,
+            "foriener": 0,
+            "indians": 1,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Schools shut for KG students in Tamil Nadu till March 31",
+                    "url": "https://www.deccanherald.com/national/south/covid-19-schools-shut-for-kg-students-in-tamil-nadu-till-march-31-813572.html"
+                },
+                {
+                    "title": "Tackling COVID-19 at the ground level in Tamil Nadu",
+                    "url": "https://www.thehindu.com/news/national/tamil-nadu/coronavirus-how-to-tackle-covid-19-at-the-ground-level/article31067508.ece"
+                },
+                {
+                    "title": "TN puts on hold order announcing leave for schools",
+                    "url": "https://thefederal.com/states/south/tamil-nadu/coronavirus-tn-puts-on-hold-order-announcing-leave-for-schools/"
+                },
+                {
+                    "title": "Corona Virus (Covid – 19) awareness coordination meeting",
+                    "url": "https://kancheepuram.nic.in/corona-virus-covid-19-awareness-coordination-meeting/"
+                },
+                {
+                    "title": "Helpline Number - 044-29510500"
+                }
+            ]
+        },
+        "Union Territory of Jammu and Kashmir": {
+            "of": "Union Territory of Jammu and Kashmir",
+            "total": 2,
+            "foriener": 0,
+            "indians": 2,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "J&K HC admits PIL on coronavirus",
+                    "url": "https://www.theweek.in/news/india/2020/03/13/jk-hc-admits-pil-on-coronavirus-asks-govt-to-prepare-comprehensive-policy.html"
+                },
+                {
+                    "title": "J&K suspends nodal officer for coronavirus control for dereliction of duty",
+                    "url": "https://www.theweek.in/news/india/2020/03/13/jammu-kashmir-suspends-nodal-officer-for-coronavirus-control-for-dereliction-of-duty.html"
+                },
+                {
+                    "title": "Primary schools shut in six J&K districts, biometric attendance suspended",
+                    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/primary-schools-shut-in-six-jk-districts-biometric-attendance-suspended/articleshow/74535692.cms"
+                },
+                {
+                    "title": "2 with travel history to coronavirus-hit countries flee from J&K hospital, brought back",
+                    "url": "https://www.indiatoday.in/india/story/2-with-travel-history-coronavirus-hit-countries-flee-j-k-hospital-brought-back-1652837-2020-03-05"
+                },
+                {
+                    "title": "Helpline Number - 01912520982, 0194-2440283"
+                }
+            ]
+        },
+        "Punjab": {
+            "of": "Punjab",
+            "total": 1,
+            "foriener": 0,
+            "indians": 1,
+            "cured":0,
+            "death": 0,
+            "bulletins": [
+                {
+                    "title": "Over 300 with travel history to coronavirus-hit countries untraceable",
+                    "url": "https://theprint.in/india/over-300-with-travel-history-to-coronavirus-hit-countries-untraceable-punjab-govt/381132/"
+                },
+                {
+                    "title": "Punjab govt announces closure of all schools till March 31",
+                    "url": "https://www.business-standard.com/article/pti-stories/coronavirus-punjab-shuts-all-schools-till-march-31-120031301292_1.html"
+                },
+                {
+                    "title": "Punjab shuts down cinema halls, bans public gatherings",
+                    "url": "https://www.businesstoday.in/latest/trends/coronavirus-punjab-to-close-cinema-halls-restaurants-and-clubs-after-shutting-down-schools-colleges-till-march-31/story/398241.html"
+                },
+                {
+                    "title": "Punjab government launches coronavirus application",
+                    "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-government-launches-coronavirus-application/articleshow/74559475.cms"
+                },
+                {
+                    "title": "Helpline Number - 104"
+                }
+            ]
+        },
+
+        "Karnataka": {
+            "of": "Karnataka",
+            "total": 7,
+            "foriener": 0,
+            "indians": 6,
+            "cured":0,
+            "death": 1,
+            "bulletins": [
+                {
+                    "title": "Karnataka government shuts malls, schools, says no to mass gathering due to coronavirus",
+                    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-govt-shuts-malls-schools-says-no-to-mass-gathering-due-to-coronavirus/articleshow/74611413.cms"
+                },
+                {
+                    "title": "Karnataka govt opens Telegram channel for citizens on coronavirus info",
+                    "url": "https://www.deccanherald.com/specials/karnataka-govt-opens-telegram-channel-for-citizens-on-coronavirus-info-813645.html"
+                },
+                {
+                    "title": "Karnataka govt launches campaign",
+                    "url": "https://www.indiatoday.in/india/story/karnataka-coronavirus-campaign-1654341-2020-03-11"
+                },
+                {
+                    "title": "Sudha Murthy to help Karnataka govt curb coronavirus",
+                    "url": "https://www.thehindubusinessline.com/news/national/sudha-murthy-to-help-karnataka-govt-curb-coronavirus/article31060012.ece"
+                },
+                {
+                    "title": "Helpline Number - 104"
+                }
+            ]
+        },
+
+        "Maharashtra": {
+            "of": "Maharashtra",
+            "total": 31,
+            "foriener": 0,
+            "indians": 31,
+            "cured":0,
+            "death": 0,
+            
+            "bulletins": [
+                {
+                    "title": "Maharashtra closes malls till 31 March, postpones exams up to Class 9 as number of reported cases rises to 26",
+                    "url": "https://www.firstpost.com/health/coronavirus-outbreak-live-updates-covid-19-who-pandemic-quarantine-india-noida-bangalore-cases-alert-novel-latest-news-today-ipl-school-college-8138611.html"
+                },
+                {
+                    "title": "Sensex, sports, schools: India’s spooked over coronavirus like never before",
+                    "url": "https://qz.com/india/1816932/coronavirus-pandemic-spooks-indian-sensex-schools-sports/"
+                },
+                {
+                    "title": "Siddhivinayak temple takes precautions amid coronavirus outbreak",
+                    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/coronavirus-cases-in-india-live-news-latest-updates-march14/liveblog/74620928.cms"
+                },
+                {
+                    "title": "Helpline Number - 020-26127394"
+                }
+            ]
+        },
+        "Andhra Pradesh": {
+            "of": "Andhra Pradesh",
+            "total": 1,
+            "foriener": 0,
+            "indians": 1,
+            "cured":0,
+            "death": 0,
+            
+            "bulletins": [
+                {
+                    "title": "Day after positive coronavirus case, Andhra Pradesh steps up vigil",
+                    "url": "https://www.indiatoday.in/india/story/day-after-positive-coronavirus-case-andhra-pradesh-steps-up-vigil-1655260-2020-03-13"
+                },
+                {
+                    "title": "Andhra Pradesh govt promulgates Covid-19 regulations",
+                    "url": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-govt-promulgates-covid-19-regulations/articleshow/74622037.cms"
+                },
+                {
+                    "title": "Here’s How AP Is Keeping Coronavirus Under Control",
+                    "url": "https://english.sakshi.com/andhrapradesh/2020/03/14/heres-how-ap-is-keeping-coronavirus-under-control"
+                },
+                {
+                    "title": "No entry for NRIs, foreigners into Tirupati",
+                    "url": "https://www.deccanherald.com/national/south/no-entry-for-nris-foreigners-into-tirupati-for-coronavirus-scare-andhra-pradesh-focuses-on-italy-returnees-812621.html"
+                },
+                {
+                    "title": "Helpline Number - 0866-2410978"
+                }
+            ]
+        }
+    
+    
+}

@@ -1,0 +1,54 @@
+[
+    {
+      "name": "Delhi",
+      "value": 10
+    },
+    {
+      "name": "Haryana",
+      "value": 14
+    },
+    {
+      "name": "Kerela",
+      "value": 25
+    },
+    {
+      "name": "Rajasthan",
+      "value": 4
+    },
+    {
+      "name": "Telengana",
+      "value": 4
+    },
+    {
+      "name": "Uttar Pradesh",
+      "value": 15
+    },
+    {
+      "name": "Union Territory of Ladakh",
+      "value": 3
+    },
+    {
+      "name": "Tamil Nadu",
+      "value": 1
+    },
+    {
+      "name": "Union Territory of Jammu and Kashmir",
+      "value": 2
+    },
+    {
+      "name": "Punjab",
+      "value": 1
+    },
+    {
+      "name": "Karnataka",
+      "value": 7
+    },
+    {
+      "name": "Maharashtra",
+      "value": 31
+    },
+    {
+      "name": "Andhra Pradesh",
+      "value": 1
+    }
+  ]
