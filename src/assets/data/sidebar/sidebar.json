@@ -1,10 +1,10 @@
 {
     "india": {
         "of": "India",
-        "total": 118,
+        "total": 110,
         "foriener": 17,
-        "indians": 90,
-        "cured":9,
+        "indians": 93,
+        "cured":13,
         "death": 2,
         "bulletins": [
             {
@@ -32,7 +32,7 @@
     
         "Delhi": {
             "of": "Delhi",
-            "total": 10,
+            "total": 7,
             "foriener": 0,
             "indians": 7,
             "cured":2,
@@ -86,7 +86,7 @@
         },
         "Kerala": {
             "of": "Kerala",
-            "total": 25,
+            "total": 22,
             "foriener": 0,
             "indians": 22,
             "cured":3,
@@ -114,7 +114,7 @@
             "total": 4,
             "foriener": 2,
             "indians": 2,
-            "cured":0,
+            "cured":3,
             "death": 0,
             "bulletins": [
                 {
@@ -140,7 +140,7 @@
         },
         "Telengana": {
             "of": "Telengana",
-            "total": 4,
+            "total": 3,
             "foriener": 0,
             "indians": 3,
             "cured":1,
@@ -169,10 +169,10 @@
         },
         "Uttar Pradesh": {
             "of": "Uttar Pradesh",
-            "total": 15,
+            "total": 13,
             "foriener": 1,
-            "indians": 11,
-            "cured":3,
+            "indians": 12,
+            "cured":4,
             "death": 0,
             "bulletins": [
                 {
@@ -315,7 +315,7 @@
 
         "Karnataka": {
             "of": "Karnataka",
-            "total": 7,
+            "total": 6,
             "foriener": 0,
             "indians": 6,
             "cured":0,
@@ -345,9 +345,9 @@
 
         "Maharashtra": {
             "of": "Maharashtra",
-            "total": 31,
+            "total": 32,
             "foriener": 0,
-            "indians": 31,
+            "indians": 32,
             "cured":0,
             "death": 0,
             
