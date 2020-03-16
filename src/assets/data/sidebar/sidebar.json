@@ -1,10 +1,10 @@
 {
     "india": {
         "of": "India",
-        "total": 118,
+        "total": 110,
         "foriener": 17,
-        "indians": 90,
-        "cured":9,
+        "indians": 93,
+        "cured":13,
         "death": 2,
         "bulletins": [
             {
