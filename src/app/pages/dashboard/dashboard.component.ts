@@ -1,13 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import Chart from 'chart.js';
 declare const $: any;
-// core components
-import {
-  chartOptions,
-  parseOptions,
-  chartExample1,
-  chartExample2
-} from "../../variables/charts";
+
 import { SubscriptionService } from 'src/app/service/subscription.service';
 import { DataFetcherService } from 'src/app/service/data-fetcher.service';
 

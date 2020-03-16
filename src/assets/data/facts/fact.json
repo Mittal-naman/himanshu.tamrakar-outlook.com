@@ -22,19 +22,19 @@
   [
     {
       "title": "Should You Clean Your Phone to Combat Coronavirus?",
-      "data": "4.ts",
+      "data": "Three people I spoke with over the past week said they did not clean their smartphones—and they’re leading experts on microbiology...",
       "img": "https://images.wsj.net/im-163468?width=1260&size=1.5",
       "sources": "https://www.wsj.com/articles/should-you-clean-your-phone-to-combat-coronavirus-definitely-maybe-11584018237"
     },
     {
       "title": "Myth: A vaccine is likely to be ready within the next month or so",
-      "data": "5.ts",
+      "data": "There have been several articles suggesting a vaccine against the new coronavirus will be available to prevent COVID-19 soon.Though...",
       "img": "https://m.economictimes.com/thumb/msid-74212489,width-1200,height-900,resizemode-4,imgsize-84066/corona-agencies.jpg",
       "src": "Analysis by EIU Healthcare, supported by Reckitt Benckiser"
     },
     {
       "title": "Myth: Airport temperature screening for arriving passengers can ‘stop’ coronavirus",
-      "data": "6.ts",
+      "data": "Some countries have been using screening measures at borders, such as taking travellers’ temperatures, to try and stop people with...",
       "img": "https://images.pexels.com/photos/804463/pexels-photo-804463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "src": "Analysis by EIU Healthcare"
     }
@@ -42,19 +42,19 @@
   [
     {
       "title": "Myth: Masks completely protect the general public from coronavirus",
-      "data": "7.ts",
+      "data": "Since the outbreak of the COVID-19, people around the world started to wear the N95 masks to protect themselves. But will this help?",
       "img": "https://image.shutterstock.com/image-photo/bangkok-thailand-january-14-2019-260nw-1286643355.jpg",
       "src": "Analysis by EIU Healthcare"
     },
     {
       "title": "Coronavirus Poll",
-      "data": "8.ts",
+      "data": "Survey finds that 77 percent of people are concerned about the coronavirus outbreak and 50 percent have CHANGED hygiene behaviours...",
       "img": "https://theengineer.markallengroup.com/production/2020/03/stock-exchange-4880802_1920.jpg",
       "src": "RB"
     },
     {
       "title": "Myth: Gargling salt water ‘eliminates’ coronavirus",
-      "data": "9.ts",
+      "data": "Both DOH and WHO say saline does not kill the virus. A graphic that carried this claim circulated on social media said: “Coronavirus..",
       "img": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/0D475DF964DB4DED80E9DD32D6EE1238/fact-check-carousel-6_0D475DF964DB4DED80E9DD32D6EE1238.jpg",
       "src": "https://www.rappler.com/newsbreak/fact-check/254504-gargling-salt-water-eliminates-coronavirus"
     }
@@ -62,19 +62,19 @@
   [
     {
       "title": "Conspiracy Theory: The United States government",
-      "data": "c1.ts",
+      "data": "There are rumours that the United States government created the Chinese coronavirus. This claim was first made by the Russian news...",
       "img": "https://listverse-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/110810313_vremya3.jpg",
       "src": "https://listverse.com/2020/03/12/top-10-crazy-conspiracy-theories-surrounding-the-chinese-coronavirus/"
     },
     {
       "title": "Conspiracy Theory: Bill Gates",
-      "data": "c2.ts",
+      "data": "If you are struggling to understand how Bill Gates fits into all these, we will need to go back to October 2019. That month, the...",
       "img": "https://listverse-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/100.jpg",
       "src": "https://listverse.com/2020/03/12/top-10-crazy-conspiracy-theories-surrounding-the-chinese-coronavirus/" 
     },
     {
       "title": "Conspiracy Theory: The Chinese government",
-      "data": "c4.ts",
+      "data": "Some people believe China created the Covid-19 virus as part of its biological weapon program. They say the virus later leaked from...",
       "img": "https://listverse-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/image.jpg",
       "src": "https://listverse.com/2020/03/12/top-10-crazy-conspiracy-theories-surrounding-the-chinese-coronavirus/"
     }
